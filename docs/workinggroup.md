@@ -30,4 +30,5 @@ permalink: /working_group/
 <li>June 19, Session 10: A better data ingestion workflow inspired by Pablo! <a href="https://docs.google.com/document/d/1ePzvOK4wkKHM2InSXNCYCdQJ1VAfsTWhcvi6LnrAZt0/edit?usp=drive_link">Meeting Minutes</a></li>
 <li>July 17, Session 11: What is necessary for the first public release of the database? <a href="https://docs.google.com/document/d/1No8F3tEgSCkrmsOMYZQW537SYBUnhbvGStklg8JDVGw/edit?usp=drive_link">Meeting Minutes</a></li>
 <li>September 22, Session 12: Welcome back! Progress on the Database Web App:  <a href="https://docs.google.com/document/d/1XRoPLNFo2XtlLVvwZ7o6-f-zmfZVXzcVbWIqj3bGcng/edit?tab=t.0#heading=h.u3lhov8fhzw2">Meeting Minutes</a></li>
+<li>October 6, Session 13: Lumpers and Splitters”: What constitutes a record? <a href="https://docs.google.com/document/d/1joVVXaeVjafN10VyYZMDTP79U2OBQbuaCdHnQf4ZyA4/edit?usp=drive_link">Meeting Minutes</a></li>
 </ol>
